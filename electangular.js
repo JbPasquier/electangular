@@ -100,6 +100,7 @@ angular.module('electangular', [])
     crashReporter: core.crashReporter,
     nativeImage: core.nativeImage,
     process: core.process,
+    remote: remote,
     screen: core.screen,
     shell: core.shell,
     ipcRenderer: core.ipcRenderer
